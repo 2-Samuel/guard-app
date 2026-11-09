@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.samuel.jarvisguard.app-debug-59:/xml_accessibility_service_config.xml.flat",
+        "source": "com.samuel.jarvisguard.app-main-61:/xml/accessibility_service_config.xml"
+    },
+    {
+        "merged": "com.samuel.jarvisguard.app-debug-59:/font_orbitron_variable.ttf.flat",
+        "source": "com.samuel.jarvisguard.app-main-61:/font/orbitron_variable.ttf"
+    },
+    {
+        "merged": "com.samuel.jarvisguard.app-debug-59:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.samuel.jarvisguard.app-main-61:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.samuel.jarvisguard.app-debug-59:/font_inter_variable.ttf.flat",
+        "source": "com.samuel.jarvisguard.app-main-61:/font/inter_variable.ttf"
+    },
+    {
+        "merged": "com.samuel.jarvisguard.app-debug-59:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.samuel.jarvisguard.app-main-61:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.samuel.jarvisguard.app-debug-59:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.samuel.jarvisguard.app-main-61:/drawable/ic_launcher_foreground.xml"
+    }
+]

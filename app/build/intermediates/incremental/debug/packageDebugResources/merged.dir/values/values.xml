@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_black">#030706</color>
+    <color name="ic_launcher_background">#030706</color>
+    <string name="accessibility_service_description">Watches which app is in the foreground so JARVIS GUARD can require authentication before WhatsApp opens. It does not read screen content, messages, or contacts.</string>
+    <string name="accessibility_service_label">JARVIS GUARD Protection</string>
+    <string name="app_name">JARVIS GUARD</string>
+    <style name="Theme.JarvisGuard" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@color/bg_black</item>
+        <item name="android:statusBarColor">@color/bg_black</item>
+        <item name="android:navigationBarColor">@color/bg_black</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="colorAccent">#00FF88</item>
+    </style>
+</resources>

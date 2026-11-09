@@ -1,0 +1,61 @@
+com.samuel.jarvisguard.app-navigation-runtime-2.7.7-0 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\09b8b49c9a6443563d76e505ee6ede93\transformed\navigation-runtime-2.7.7\res
+com.samuel.jarvisguard.app-ui-tooling-release-1 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\0af601b194085b5b35e4d88fcebd8094\transformed\ui-tooling-release\res
+com.samuel.jarvisguard.app-lifecycle-livedata-core-2.7.0-2 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\100cd4d327a2c46472297985bac25c89\transformed\lifecycle-livedata-core-2.7.0\res
+com.samuel.jarvisguard.app-ui-release-3 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\13703fdfadd07284e9bb229f52299fee\transformed\ui-release\res
+com.samuel.jarvisguard.app-ui-text-release-4 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\1e2825fe78223278a0025852fe56bb22\transformed\ui-text-release\res
+com.samuel.jarvisguard.app-material-ripple-release-5 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\22095c948b4f996973588f74a871b4e0\transformed\material-ripple-release\res
+com.samuel.jarvisguard.app-profileinstaller-1.3.1-6 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\238686a4269cee0a6c564b2011be6378\transformed\profileinstaller-1.3.1\res
+com.samuel.jarvisguard.app-activity-compose-1.9.0-7 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\2738223ca8a1694e14fa33e092c82df9\transformed\activity-compose-1.9.0\res
+com.samuel.jarvisguard.app-navigation-runtime-ktx-2.7.7-8 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\2ea3b7ff52a483562443da564d76e835\transformed\navigation-runtime-ktx-2.7.7\res
+com.samuel.jarvisguard.app-material3-release-9 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\346431e9c2af67362afd7229cf764878\transformed\material3-release\res
+com.samuel.jarvisguard.app-fragment-ktx-1.6.2-10 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\3ca37ed38cf5329cb3d663cca6efc820\transformed\fragment-ktx-1.6.2\res
+com.samuel.jarvisguard.app-biometric-1.1.0-11 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\41697bee6db549262b59fcef3a3d67fa\transformed\biometric-1.1.0\res
+com.samuel.jarvisguard.app-lifecycle-runtime-ktx-2.7.0-12 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\4285886a8cea15ac6386f57825bab496\transformed\lifecycle-runtime-ktx-2.7.0\res
+com.samuel.jarvisguard.app-navigation-compose-2.7.7-13 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\45ca3d574d380a2a865e3a8b4db1a3f7\transformed\navigation-compose-2.7.7\res
+com.samuel.jarvisguard.app-fragment-1.6.2-14 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\49aa56ec17175dd9bf2f70a29c0f565d\transformed\fragment-1.6.2\res
+com.samuel.jarvisguard.app-lifecycle-livedata-2.7.0-15 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\4abf8715567822b066bae08a7313b067\transformed\lifecycle-livedata-2.7.0\res
+com.samuel.jarvisguard.app-ui-util-release-16 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\4aeb1070f3b68512bdaf9ce650051207\transformed\ui-util-release\res
+com.samuel.jarvisguard.app-navigation-common-ktx-2.7.7-17 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\4cec46c0dc50d80bd8f4abf051991b11\transformed\navigation-common-ktx-2.7.7\res
+com.samuel.jarvisguard.app-material-icons-extended-release-18 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\50570df81698e79f5092375f963751a6\transformed\material-icons-extended-release\res
+com.samuel.jarvisguard.app-emoji2-1.3.0-19 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\567bf814997834399871c7baa6469f38\transformed\emoji2-1.3.0\res
+com.samuel.jarvisguard.app-customview-poolingcontainer-1.0.0-20 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\60b6661b014d84f6f28be474a8765c36\transformed\customview-poolingcontainer-1.0.0\res
+com.samuel.jarvisguard.app-savedstate-ktx-1.2.1-21 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\60d791208df7c16bb47b0e76c654fc0d\transformed\savedstate-ktx-1.2.1\res
+com.samuel.jarvisguard.app-foundation-layout-release-22 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\6120da7b6b6f44560673e98e791b84e3\transformed\foundation-layout-release\res
+com.samuel.jarvisguard.app-core-runtime-2.2.0-23 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\672ba1b0bebface8b1fd21c153584bdf\transformed\core-runtime-2.2.0\res
+com.samuel.jarvisguard.app-runtime-release-24 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\71791104db2880e44b13e3be88ec3a88\transformed\runtime-release\res
+com.samuel.jarvisguard.app-core-1.13.1-25 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\7525c05a7730c65fb15cbda140b1603a\transformed\core-1.13.1\res
+com.samuel.jarvisguard.app-annotation-experimental-1.4.0-26 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\778d4e31bacb890a9ab8eb9c8272630c\transformed\annotation-experimental-1.4.0\res
+com.samuel.jarvisguard.app-appcompat-1.6.1-27 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\8281561292cd1cba630fbfb9452a91c3\transformed\appcompat-1.6.1\res
+com.samuel.jarvisguard.app-ui-geometry-release-28 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\8b056d8ad01b0e1770f7964a0d48b8e0\transformed\ui-geometry-release\res
+com.samuel.jarvisguard.app-lifecycle-viewmodel-compose-2.7.0-29 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\8cbc25ca583540f917f9aca460ce5be4\transformed\lifecycle-viewmodel-compose-2.7.0\res
+com.samuel.jarvisguard.app-lifecycle-viewmodel-2.7.0-30 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\8e6c7ca1c14d7961cff4d3d4d8a593e7\transformed\lifecycle-viewmodel-2.7.0\res
+com.samuel.jarvisguard.app-ui-graphics-release-31 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\904abf12158c103d527b44b88248490d\transformed\ui-graphics-release\res
+com.samuel.jarvisguard.app-ui-unit-release-32 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\909f5017cce3630585da07707f0fb69a\transformed\ui-unit-release\res
+com.samuel.jarvisguard.app-core-ktx-1.13.1-33 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\97d6a197ea28c781285c0831b19f423f\transformed\core-ktx-1.13.1\res
+com.samuel.jarvisguard.app-lifecycle-process-2.7.0-34 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\9da48189610dcedb51cffb79f33f1e08\transformed\lifecycle-process-2.7.0\res
+com.samuel.jarvisguard.app-emoji2-views-helper-1.3.0-35 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\9fc557277d24b3a6704dbff8ae1b8293\transformed\emoji2-views-helper-1.3.0\res
+com.samuel.jarvisguard.app-activity-1.9.0-36 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\a0aa8587b318a528e6af80b75d89063c\transformed\activity-1.9.0\res
+com.samuel.jarvisguard.app-ui-tooling-preview-release-37 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\a20849519d987c41afcb7e50a130f9f1\transformed\ui-tooling-preview-release\res
+com.samuel.jarvisguard.app-ui-test-manifest-1.6.7-38 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\b068e668cf0ae507845f594fe53a241e\transformed\ui-test-manifest-1.6.7\res
+com.samuel.jarvisguard.app-foundation-release-39 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\b0f03aab3eff89fbc04bc3e86c1842f5\transformed\foundation-release\res
+com.samuel.jarvisguard.app-runtime-saveable-release-40 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\bb016a12a3ecf1633a451029b6ecb2fa\transformed\runtime-saveable-release\res
+com.samuel.jarvisguard.app-material-release-41 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\bbc97ea66e6ad36f137d0aacd488ba66\transformed\material-release\res
+com.samuel.jarvisguard.app-savedstate-1.2.1-42 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\bc9613a5b3cd833cac1e88f24d50d322\transformed\savedstate-1.2.1\res
+com.samuel.jarvisguard.app-lifecycle-viewmodel-ktx-2.7.0-43 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\c38009204e8cc49d452bedc452bdc1f2\transformed\lifecycle-viewmodel-ktx-2.7.0\res
+com.samuel.jarvisguard.app-activity-ktx-1.9.0-44 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\c4a64753c9b6a42456823399650c3be9\transformed\activity-ktx-1.9.0\res
+com.samuel.jarvisguard.app-lifecycle-runtime-2.7.0-45 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\c67b41d63c8f3ac24871a43c484b2eca\transformed\lifecycle-runtime-2.7.0\res
+com.samuel.jarvisguard.app-material-icons-core-release-46 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\d1af7a27545c1dcb79c5149fb4f74706\transformed\material-icons-core-release\res
+com.samuel.jarvisguard.app-navigation-common-2.7.7-47 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\d45bf6e117b7dfd0c4c778ee419900a1\transformed\navigation-common-2.7.7\res
+com.samuel.jarvisguard.app-animation-core-release-48 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\e61e1cc12a3dc6a7ab26a7b8fc1a8eb1\transformed\animation-core-release\res
+com.samuel.jarvisguard.app-startup-runtime-1.1.1-49 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\e68bbbe75c172f9ec85ca7934ecc8e8d\transformed\startup-runtime-1.1.1\res
+com.samuel.jarvisguard.app-lifecycle-livedata-core-ktx-2.7.0-50 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\ec4189fef788f2e9d3cd983d4ea23603\transformed\lifecycle-livedata-core-ktx-2.7.0\res
+com.samuel.jarvisguard.app-ui-tooling-data-release-51 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\f70435cbf3773b3ff6a0e5722c81102e\transformed\ui-tooling-data-release\res
+com.samuel.jarvisguard.app-appcompat-resources-1.6.1-52 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\f84dfd5a0a119db82b3665aede00d107\transformed\appcompat-resources-1.6.1\res
+com.samuel.jarvisguard.app-lifecycle-viewmodel-savedstate-2.7.0-53 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\f8de6625656f8a1e3de9becf835f5972\transformed\lifecycle-viewmodel-savedstate-2.7.0\res
+com.samuel.jarvisguard.app-animation-release-54 C:\Users\Dell 7280\.gradle\caches\8.13\transforms\ff73d308c1fc27e8c5ab215d7c780f02\transformed\animation-release\res
+com.samuel.jarvisguard.app-resValues-55 C:\Users\Dell 7280\Desktop\Guard app\app\build\generated\res\resValues\debug
+com.samuel.jarvisguard.app-packageDebugResources-56 C:\Users\Dell 7280\Desktop\Guard app\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.samuel.jarvisguard.app-packageDebugResources-57 C:\Users\Dell 7280\Desktop\Guard app\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.samuel.jarvisguard.app-debug-58 C:\Users\Dell 7280\Desktop\Guard app\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.samuel.jarvisguard.app-debug-59 C:\Users\Dell 7280\Desktop\Guard app\app\src\debug\res
+com.samuel.jarvisguard.app-main-60 C:\Users\Dell 7280\Desktop\Guard app\app\src\main\res
